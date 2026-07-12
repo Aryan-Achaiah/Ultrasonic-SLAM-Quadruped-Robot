@@ -1,5 +1,5 @@
 # Ultrasonic-SLAM-Quadruped-Robot
-An open-source, budget-friendly 12-DOF (Degrees of Freedom) quadruped spider robot capable of biological-inspired legged locomotion and real-time 2D environmental obstacle mapping (SLAM). This project utilizes a dual-microcontroller architecture to decouple structural gait mathematics from real-time obstacle calculations.
+An open-source, budget-friendly 12-DOF quadruped spider robot capable of biological-inspired legged locomotion and real-time 2D environmental obstacle mapping (SLAM). This project utilizes a dual-microcontroller architecture to decouple structural gait mathematics from real-time obstacle calculations.
 
 <img width="1280" height="960" alt="robot-pic-2" src="https://github.com/user-attachments/assets/58af32bf-232a-40de-986e-9791e9a9e903" />
 <img width="899" height="1599" alt="robot-pic-3" src="https://github.com/user-attachments/assets/df2511e2-1378-4a13-b39e-0fd25926d9a9" />
