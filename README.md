@@ -50,7 +50,7 @@ Before mounting the mechanical leg horns, upload `Neutral_Position.ino` to the A
 ### 3. Executing Python 2D Map Dashboards
 Ensure your desktop environment has Python 3 and its terminal dependencies configured. Run the following to establish visualization tracking
 * OR 
-#### After uploading and running the slam arduino code, open online matplotlib compilier and and paste the code from Slam_matplotlib_code to online matplotlib compilier to get the 2d-mapped output
+#### After uploading and running the slam arduino code, open online matplotlib compilier and paste the code from Slam_matplotlib_code to online matplotlib compilier to get the 2d-mapped output
 
 For Hardware 3D-printed Structures:
 http://bit.ly/2wdEbmO
